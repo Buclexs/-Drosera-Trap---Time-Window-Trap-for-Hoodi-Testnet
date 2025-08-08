@@ -6,6 +6,12 @@ Example: active only between the 10th and 20th second of each minute.
 Its purpose is to detect bots or users that are unaware of this time limitation.
 
 ---
+🧪 My Trap Details
+🧠 Logic: Time Window Trap
+📍 Trap Address: 0x660cd9e8546bf988138baa5092a2b05e262cf99c
+📜 Deployed Contract: 0xB5F15483beCa5D75B7a04af354AF6F2B78FFbE31
+📸 Post on X: [My Tweet]([https://x.com/Buclexs/status/1953506087463764041]
+🛠 Status: Running ✅
 
 ## 🖥️ System Requirements
 - 2 CPU Cores
