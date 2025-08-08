@@ -1,0 +1,1 @@
+path = "out/Trap.sol/Trap.json"\nresponse_contract = "0xYourContractAddress"\nresponse_function = "isActive()"\n
